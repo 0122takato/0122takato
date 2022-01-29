@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=&theme=dracula
+[![github-chart](https://github-chart.vercel.app/api?user=0122takato)](https://github.com/0122takato/github-chart)
 
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0122takato&layout=compact&show_icons=true&theme=onedark" />
